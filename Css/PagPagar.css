@@ -1,0 +1,137 @@
+*{ padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+}
+#foto{
+    height: 11vh;
+    background-color: black;
+}
+#fundo{
+    width: 100%;
+    height: 99.3vh;
+    background-color: black;
+}
+#proximo {
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-family: Georgia;
+    background-color: rgb(0, 103, 214);
+    width: 21.9vw;
+    height: 10vh;
+    font-size: 20px;
+    border-radius: 12px;
+    border-color: rgb(255, 255, 255);
+    color: white;
+    text-align: center;
+    margin-left: 39.1vw;
+    margin-top: 68vh;
+}
+#emailn{
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-family: Georgia;
+    background-color: rgba(255, 255, 255, 0);
+    width: 38.5vw;
+    height: 7vh;
+    font-size: 22px;
+    border-color: rgba(0, 104, 214);
+    border-radius: 4px;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    padding-left: 10px;
+    margin-left: 30.2vw;
+    margin-top: 3.6vh;
+}
+#Emails{
+        position: absolute;
+        transition: translate(-50%, _50);
+        color: rgb(0, 103, 214);
+        font-weight: bold;
+        font-size: 4vh;
+        margin-left: 30.2vw;
+        margin-top: -1vh;
+}
+#senhan{
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-family: Georgia;
+    background-color: rgba(255, 255, 255, 0);
+    width: 38.5vw;
+    height: 7vh;
+    font-size: 22px;
+    border-color: rgba(0, 104, 214);
+    border-radius: 4px;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    padding-left: 10px;
+    margin-left: 30.2vw;
+    margin-top: 21vh;
+}
+#Senhas{
+        position: absolute;
+        transition: translate(-50%, _50);
+        color: rgb(0, 103, 214);
+        font-weight: bold;
+        font-size: 4vh;
+        margin-left: 30.2vw;
+        margin-top: 16.5vh;
+}
+#sen2{
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-family: Georgia;
+    background-color: rgba(255, 255, 255, 0);
+    width: 38.5vw;
+    height: 7vh;
+    font-size: 22px;
+    border-color: rgba(0, 104, 214);
+    border-radius: 4px;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    padding-left: 10px;
+    margin-left: 30.2vw;
+    margin-top: 38.5vh;
+}
+#sens2{
+        position: absolute;
+        transition: translate(-50%, _50);
+        color: rgb(0, 103, 214);
+        font-weight: bold;
+        font-size: 4vh;
+        margin-left: 30.2vw;
+        margin-top: 34vh;
+}
+#Cobrir{
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-family: Georgia;
+    background-color: rgb(255, 255, 255);
+    width: 26vw;    
+    height: 18vh;
+    border-radius: 8.5px;
+    margin-left: 37vw;
+    margin-top: -24vh;
+}
+#Cobrir2{
+    position: absolute;
+    transition: translate(-50%, _50);
+    width:42vw;
+    height: 60vh;
+    font-size: 22px;
+    border-radius: 8px;
+    margin-left: 29vw;
+    margin-top: -92vh;
+    background-color: #ffffff;
+}
+#pagamento {
+    position: absolute;
+    transition: translate(-50%, _50);
+    color: rgb(0, 103, 214);
+    font-weight: bold;
+    font-size: 4vh;
+    margin-left: 40.7vw;
+    margin-top: 50vh;
+}

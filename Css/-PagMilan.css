@@ -1,0 +1,119 @@
+*{ padding: 0;
+    margin: 0;
+}
+#fundo{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+body{
+    background-color: #fff9f3;
+}
+#comprar {
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-family: Georgia;
+    background-color: rgb(45, 24, 3);
+    width: 13vw;
+    height: 11vh;
+    font-size: 3.5vh;
+    border-radius: 5vh;
+    border-color: rgb(255, 255, 255);
+    color: white;
+    margin-left: 36.6vw;
+    margin-top: -33%;
+}
+.outra{
+    height: 8.9vh;
+    transform: rotate(500grad);
+}
+#seti2 {
+    position: absolute;
+    transition: translate(-50%, _50);
+    margin-left: 2vw;
+    margin-top: -47%;
+}
+
+#a {
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-size: 3vh;
+    margin-left: 70.3vw;    
+    font-weight: bold;
+    margin-top: -40%;
+}
+
+#preco1{
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-weight: bold;
+    font-size: 2.2vh;
+    margin-left: 70.3vw;
+    margin-top: -38.3%;
+}
+
+#b {
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-size: 3vh;
+    margin-left: 70.3vw;
+    font-weight: bold;
+    margin-top: -36%;
+}
+
+#preco2{
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-weight: bold;
+    font-size: 2.2vh;
+    margin-left: 70.3vw;
+    margin-top: -34.3%;
+}
+
+#c {
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-size: 3vh;
+    margin-left: 70.3vw;
+    font-weight: bold;
+    margin-top: -32%;
+}
+
+#preco3{
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-weight: bold;
+    font-size: 2.2vh;
+    margin-left: 70.3vw;
+    margin-top: -30.3%;
+}
+
+#xpreco1{
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-weight: bold;
+    color: gray;
+    font-size: 1.7vh;
+    margin-left: 76vw;
+    margin-top: -38%;
+}
+
+#xpreco2{
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-weight: bold;
+    color: gray;
+    font-size: 1.7vh;
+    margin-left: 76vw;
+    margin-top: -34%;
+}
+
+#xpreco3{
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-weight: bold;
+    color: gray;
+    font-size: 1.7vh;
+    margin-left: 76vw;
+    margin-top: -30%;
+}

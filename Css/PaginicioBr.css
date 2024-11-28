@@ -1,0 +1,46 @@
+*{padding: 0;
+  margin: 0;
+}
+body{
+    background-color: #fff9f3;
+}
+#fotin{
+    position: absolute;
+    transition: translate(-50%, _50);
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(11, 0, 0, 0);
+}
+#fundo{
+    position: absolute;
+    transition: translate(-50, _50);
+    width: 98.5vw;
+    height: 100vh;
+    background-color: black;
+}
+.outra{
+    height: 8.9vh;
+    transform: rotate(500grad);
+}
+#seti2 {
+    position: absolute;
+    transition: translate(-50%, _50);
+    margin-left: 2vw;
+    margin-top: 4.3vh;
+}
+#seemore {
+    position: absolute;
+    transition: translate(-50%, _50);
+    margin-left: 14.55vw;
+    margin-top: 70.4vh;
+    font-family: 'Gill Sans';
+    font-weight: bold;
+    background-color: #E0C9B8;
+    border-color: rgba(230, 0, 0, 0);
+    font-size: large;
+    color: rgb(0, 0, 0);
+    height: 8vh;
+    width: 12vw;
+    font-size: 21px;
+    border-radius: 29px;
+}

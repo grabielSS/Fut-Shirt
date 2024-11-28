@@ -1,0 +1,57 @@
+*{ padding: 0;
+    margin: 0;
+}
+body {
+    background-color: black;
+    background-image: "D:\Etec\Quaiati\Semestre 2\Gabriel e MIguel\imagens\pag2.png";
+}
+#foto{
+    background-color: black;
+}
+#fundo{
+    width: 98.5vw;
+    height: -11vh;
+    background-color: black;
+}
+.media{
+    height: 8vh;
+}
+#setinha {
+    position: absolute;
+    transition: translate(-50%, _50);
+    background-color: rgba(10, 155, 0, 0);
+    width: 10vw;
+    height: 9.6vh;
+    border-radius: 100px;
+    border-right-color: white;
+    margin-left: 49vw;
+    margin-top: -11vh;
+}
+#logar {
+    position: absolute;
+    transition: translate(-50%, _50);
+    font-family: 'Gill Sans';
+    background-color: rgba(0, 25, 69, 0.392);
+    width: 10vw;
+    height: 7.8vh;
+    border-radius: 50px;
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    margin-left: 46vw;
+    margin-top: -27vh;
+}
+.outra{
+    height: 8.9vh;
+    transform: rotate(500grad);
+}
+#seti2 {
+    position: absolute;
+    transition: translate(-50%, _50);
+    background-color: rgba(10, 155, 0, 0);
+    width: 10vw;
+    height: 9.6vh;
+    border-radius: 100px;
+    border-right-color: white;
+    margin-left: 49vw;
+    margin-top: -93vh;
+}
